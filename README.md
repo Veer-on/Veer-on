@@ -7,7 +7,7 @@
  - 👨‍💻 Pursuing B. Tech in Civil Engineering from IIT Madras
  - 📫 Reach out to me: <a href="mailto:vivekchaturvedi1322@gmail.com">vivekchaturvedi1322@gmail.com</a>
  - 👦 Pronouns- He/Him
- - ⚡ Fun fact:<i>"Someone developed the internet without the help of internet."</i>
+ - ⚡ Fun fact:<i>Someone developed the internet without the help of internet.</i>
   
 <h3>Languages:</h3>
 <pre><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a></pre>
